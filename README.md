@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Iftakhar Alam
 ####  Front-End Developer 
-### Currently Internship: WEBERMELON.com and lookinmg to expend as full stacks Front-End Developer. 
+### Currently Internship: webermelon.com and lookinmg to expend as full stacks Front-End Developer. 
 
 Passionate MERN Stack Developer adept at crafting dynamic web applications. Skilled in MongoDB, Express.js, React, and Node.js. Also, specialise in building responsive user interfaces and scalable backend solutions. With a collaborative environment and excel in translating consumer needs into efficient code and fostering productive team environments. Continuously adapting to new hardware and software, I am dedicated to delivering innovative solutions that drive business needs. Let's connect to discuss how I can contribute your need and how we can part of big picture. 
 
