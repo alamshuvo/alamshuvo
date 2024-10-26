@@ -7,7 +7,7 @@ Passionate MERN Stack Developer adept at crafting dynamic web applications. Skil
 Skills: HTML/CSS/TailwindCSS/React.js/Node.js/Javascript
 
 - 🌱 I’m currently learning on my own Next.Js, Typescript. 
-- 👯 I’m looking to collaborate on Github and further my skill set.
+- 👯 I’m looking to collaborate on Github and further my skills set.
 - 📫 How to reach me: iftakharalamshuvo11@gmail.com 
 
 
