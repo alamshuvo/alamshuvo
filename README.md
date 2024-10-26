@@ -1,13 +1,14 @@
 ### Hi there 👋, My Name is Iftakhar Alam
 ####  Front-End Developer 
+### Currently Internship: WEBERMELON.com and lookinmg to expend as full stacks Front-End Developer. 
 ![ Front-End Developer ](https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/423514207_352797777548159_3516787377322825309_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6hSmkFR1O8cQ7kNvgECplU4&_nc_ht=scontent.fcgp36-1.fna&oh=00_AYAmX5gE7xVo3wSt3Fl4DcHrq6I9BZ2KQXtLKUhKWJWxaQ&oe=667A1574)
 
-Passionate MERN Stack Developer adept at crafting dynamic web applications. Skilled in MongoDB, Express.js, React, and Node.js, I specialize in building responsive user interfaces and scalable backend solutions. With a collaborative mindset, I excel in translating client needs into efficient code and fostering productive team environments. Continuously learning and adapting to new technologies, I am dedicated to delivering innovative solutions that drive business success. Let's connect to discuss how I can contribute to your next project
+Passionate MERN Stack Developer adept at crafting dynamic web applications. Skilled in MongoDB, Express.js, React, and Node.js. Also, specialise in building responsive user interfaces and scalable backend solutions. With a collaborative environment and excel in translating consumer needs into efficient code and fostering productive team environments. Continuously adapting to new hardware and software, I am dedicated to delivering innovative solutions that drive business needs. Let's connect to discuss how I can contribute your need and how we can part of big picture. 
 
-Skills: HTML/CSS/TailwindCSS/React.js/Node.js/Next.js
+Skills: HTML/CSS/TailwindCSS/React.js/Node.js/Javascript
 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
+- 🌱 I’m currently learning on my own Next.Js, Typescript. 
+- 👯 I’m looking to collaborate on Github and further my skill set.
 - 📫 How to reach me: iftakharalamshuvo11@gmail.com 
 
 
