@@ -24,9 +24,7 @@ Let's connect to discuss how I can contribute to your needs and be part of the b
 ---
 
 ### Social Links  
-
-#### Facebook Profile Picture:  
-<img src="https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-1/458397047_485913764236559_8294355060092844208_n.jpg?stp=c0.165.719.719a_dst-jpg_s480x480&_nc_cat=100&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHaRF1m0j6MJMHlXLJsfmc_WiZeB4DCLGVaJl4HgMIsZdPzlGebiWJ8hEq-ZIQAKy12Dv4SPZ6P3Iydz9eHwWIL&_nc_ohc=wQzGmYoKX_AQ7kNvgHIr8aJ&_nc_zt=24&_nc_ht=scontent.fcgp13-1.fna&_nc_gid=ATm5Ws4-dU9FpNlciPcia13&oh=00_AYDhX1w2jDwZTd7QGPo9szBDEarf_9RQPCneGQq1HTg43Q&oe=6743345A" alt="Facebook Profile Picture" height="200">  
+<img src="https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-1/458397047_485913764236559_8294355060092844208_n.jpg?stp=c0.165.719.719a_dst-jpg_s480x480&_nc_cat=100&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHaRF1m0j6MJMHlXLJsfmc_WiZeB4DCLGVaJl4HgMIsZdPzlGebiWJ8hEq-ZIQAKy12Dv4SPZ6P3Iydz9eHwWIL&_nc_ohc=wQzGmYoKX_AQ7kNvgHIr8aJ&_nc_zt=24&_nc_ht=scontent.fcgp13-1.fna&_nc_gid=ATm5Ws4-dU9FpNlciPcia13&oh=00_AYDhX1w2jDwZTd7QGPo9szBDEarf_9RQPCneGQq1HTg43Q&oe=6743345A" alt="Facebook Profile Picture" height="400">  
 
 #### Other Social Links:  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/alamshuvo)  
