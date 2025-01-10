@@ -11,8 +11,8 @@ Let's connect to discuss how I can contribute to your needs and be part of the b
 
 ### Skills  
 - **Front-End:** HTML, CSS, TailwindCSS, JavaScript, React.js  
-- **Back-End:** Node.js  
-- **Currently Learning:** Next.js, TypeScript  
+- **Back-End:** Node.js,Express.js
+- **Currently Learning:** Next.js,TypeScript, Mongooes,Redux,
 
 ---
 
