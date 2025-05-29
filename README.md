@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Iftakhar Alam  
-<img src="(https://www.linkedin.com/in/iftakhar-alam-shuvo/overlay/background-image/?trk=flagship3_open_to_hiring_creation_upsell)" alt="Mokkapps GitHub README header image">
+<a href="https://ibb.co/YF07ZYq4"><img src="https://i.ibb.co/XrYZ8Nvf/Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner.png" alt="Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner" border="0"></a>
 
 #### Front-End Developer  
 
