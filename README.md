@@ -13,7 +13,9 @@
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
   <a href="https://mongoosejs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongoose" width="40" height="40"/></a>
   
 </p>
@@ -22,7 +24,8 @@
 
 Currently interning at **[Webermelon](https://webermelon.com)** and actively looking to grow as a full-stack Front-End Developer.  
 
-I am a passionate **MERN Stack Developer** skilled in building dynamic and responsive web applications. Proficient in **MongoDB**, **Express.js**, **React.js**, and **Node.js**, I specialize in developing user-centric interfaces and scalable back-end solutions. I thrive in collaborative environments and excel in translating consumer needs into efficient code. I’m committed to continuously learning and adapting to new technologies to deliver innovative solutions that meet business objectives.  
+ I’m a passionate Full Stack Web Developer with hands-on experience in building dynamic, user-centric applications using the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js for scalable, SEO-friendly solutions. I work confidently with both NoSQL (Mongoose) and relational (PostgreSQL) databases.
+Starting from a frontend background, I evolved into a full-stack developer capable of building complete web solutions—from crafting modern UI with React and Tailwind CSS to designing secure APIs and managing databases with Prisma or Mongoose.
 
 Let's connect to discuss how I can contribute to your needs and be part of the bigger picture!  
 
