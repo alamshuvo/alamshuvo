@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Iftakhar Alam  
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="[https://github.com/Mokkapps/mokkapps/blob/master/header.png](https://www.linkedin.com/in/iftakhar-alam-shuvo/overlay/background-image/?trk=flagship3_open_to_hiring_creation_upsell)" alt="Mokkapps GitHub README header image">
+
 #### Front-End Developer  
 
 Currently interning at **[Webermelon](https://webermelon.com)** and actively looking to grow as a full-stack Front-End Developer.  
