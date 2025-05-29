@@ -20,7 +20,7 @@
   
 </p>
 
-#### Front-End Developer  
+#### Full-Stack Developer  
 
 Currently interning at **[Webermelon](https://webermelon.com)** and actively looking to grow as a full-stack Front-End Developer.  
 
